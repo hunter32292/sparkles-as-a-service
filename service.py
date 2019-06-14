@@ -8,4 +8,4 @@ def hello():
     return "☆*:.｡.o(≧▽≦)o.｡.:*☆"
 
 
-app.run()
+app.run(host="0.0.0.0")
